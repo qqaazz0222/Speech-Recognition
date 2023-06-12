@@ -210,4 +210,3 @@ try:
         plt.show()
 except Exception as e:
     parser.exit(type(e).__name__ + ': ' + str(e))
-[출처] [Python] Microphone signal real time graph|작성자 live for dream
